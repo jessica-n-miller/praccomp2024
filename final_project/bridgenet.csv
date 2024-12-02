@@ -1,0 +1,996 @@
+Season,Cruise,Sequence,CoreSeaso,StartDate,Week,Year,StartTemperature,StartSalinity,StartDO,N_TEMPERATURE,N_SALINITY,N_DO,AnalysisYN,Status,Gear,Mesh,Aliquot,FlowFlag,VolumeFiltered,Taxa,TotalAbundance
+2010,955,3961,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,93.28,Myrophis punctatus,3
+2010,955,3961,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys albigutta,4
+2010,955,3961,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,93.28,Lagodon rhomboides,12
+2010,955,3961,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys lethostigma,1
+2010,955,3961,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,14
+2010,955,3962,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,105.6,Micropogonias undulatus,152
+2010,955,3962,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,105.6,Paralichthys lethostigma,5
+2010,955,3962,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,105.6,Paralichthys dentatus,1
+2010,955,3962,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,105.6,Myrophis punctatus,24
+2010,955,3962,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,105.6,Sciaenidae,2
+2010,955,3962,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,105.6,Leiostomus xanthurus,33
+2010,955,3962,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,105.6,Lagodon rhomboides,43
+2010,955,3962,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,105.6,Engraulidae,1
+2010,955,3962,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,105.6,Brevoortia tyrannus,6
+2010,955,3962,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,105.6,Paralichthys albigutta,3
+2010,955,3963,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,91.52,Micropogonias undulatus,170
+2010,955,3963,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,91.52,Paralichthys albigutta,10
+2010,955,3963,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,91.52,Paralichthys lethostigma,7
+2010,955,3963,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,91.52,Myrophis punctatus,9
+2010,955,3963,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,91.52,Leiostomus xanthurus,29
+2010,955,3963,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,91.52,Lagodon rhomboides,74
+2010,955,3963,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,91.52,Brevoortia tyrannus,5
+2010,955,3963,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,91.52,Engraulidae,1
+2010,955,3964,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys albigutta,5
+2010,955,3964,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,95.04,Leiostomus xanthurus,35
+2010,955,3964,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys lethostigma,4
+2010,955,3964,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,95.04,Myrophis punctatus,26
+2010,955,3964,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,95.04,Micropogonias undulatus,138
+2010,955,3964,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,95.04,Engraulidae,1
+2010,955,3964,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,95.04,Brevoortia tyrannus,11
+2010,955,3964,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,95.04,Anguilla rostrata,1
+2010,955,3964,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,95.04,Atherinopsidae,1
+2010,955,3964,Yes,1/5/2010,10,2010,8.1,,,8.1,33.7,10,Yes,Processed,Neuston,1MM,1,,95.04,Lagodon rhomboides,121
+2010,956,3965,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys lethostigma,1
+2010,956,3965,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,89.76,Leiostomus xanthurus,5
+2010,956,3965,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,89.76,Micropogonias undulatus,17
+2010,956,3965,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,89.76,Myrophis punctatus,5
+2010,956,3965,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,89.76,Orthopristis chrysoptera,1
+2010,956,3965,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,89.76,Lagodon rhomboides,11
+2010,956,3966,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,88,Paralichthys lethostigma,6
+2010,956,3966,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,88,Paralichthys dentatus,1
+2010,956,3966,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,88,Paralichthys albigutta,7
+2010,956,3966,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,88,Myrophis punctatus,5
+2010,956,3966,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,88,Micropogonias undulatus,33
+2010,956,3966,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,88,Leiostomus xanthurus,13
+2010,956,3966,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,88,Lagodon rhomboides,8
+2010,956,3966,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,88,Anguilla rostrata,1
+2010,956,3966,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,88,Brevoortia tyrannus,3
+2010,956,3967,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,96.8,Paralichthys albigutta,5
+2010,956,3967,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,96.8,Paralichthys dentatus,1
+2010,956,3967,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,96.8,Paralichthys lethostigma,2
+2010,956,3967,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,96.8,Micropogonias undulatus,62
+2010,956,3967,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,96.8,Lagodon rhomboides,5
+2010,956,3967,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,96.8,Leiostomus xanthurus,5
+2010,956,3967,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,96.8,Myrophis punctatus,6
+2010,956,3968,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,110.88,Leiostomus xanthurus,9
+2010,956,3968,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,110.88,Micropogonias undulatus,40
+2010,956,3968,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,110.88,Myrophis punctatus,8
+2010,956,3968,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,110.88,Paralichthys albigutta,9
+2010,956,3968,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,110.88,Scophthalmus aquosus,1
+2010,956,3968,Yes,1/15/2010,11,2010,5.6,,,6.4,33.4,10.6,Yes,Processed,Neuston,1MM,1,,110.88,Lagodon rhomboides,2
+2010,957,3969,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Micropogonias undulatus,9
+2010,957,3969,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Sciaenidae,1
+2010,957,3969,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Paralichthys lethostigma,1
+2010,957,3969,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Myrophis punctatus,9
+2010,957,3969,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Lagodon rhomboides,14
+2010,957,3969,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Gobiidae,1
+2010,957,3969,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Brevoortia tyrannus,3
+2010,957,3969,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Leiostomus xanthurus,4
+2010,957,3969,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Paralichthys albigutta,1
+2010,957,3970,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Lagodon rhomboides,26
+2010,957,3970,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Paralichthys lethostigma,1
+2010,957,3970,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Paralichthys albigutta,2
+2010,957,3970,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Myrophis punctatus,5
+2010,957,3970,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Leiostomus xanthurus,8
+2010,957,3970,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Gobiidae,1
+2010,957,3970,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Brevoortia tyrannus,1
+2010,957,3970,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,88,Micropogonias undulatus,2
+2010,957,3971,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Micropogonias undulatus,3
+2010,957,3971,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Paralichthys albigutta,7
+2010,957,3971,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Leiostomus xanthurus,23
+2010,957,3971,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Lagodon rhomboides,51
+2010,957,3971,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Brevoortia tyrannus,3
+2010,957,3971,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Myrophis punctatus,7
+2010,957,3972,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,93.28,Leiostomus xanthurus,18
+2010,957,3972,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys lethostigma,6
+2010,957,3972,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys albigutta,4
+2010,957,3972,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,2
+2010,957,3972,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,93.28,Lagodon rhomboides,120
+2010,957,3972,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,93.28,Citharichthys,1
+2010,957,3972,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,93.28,Brevoortia tyrannus,4
+2010,957,3972,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,93.28,Anguilla rostrata,1
+2010,957,3972,Yes,1/20/2010,12,2010,10.4,,,9.7,33.9,9.9,Yes,Processed,Neuston,1MM,1,,93.28,Myrophis punctatus,11
+2010,958,3973,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Anguilla rostrata,1
+2010,958,3973,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Myrophis punctatus,5
+2010,958,3973,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys lethostigma,19
+2010,958,3973,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys dentatus,3
+2010,958,3973,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys albigutta,20
+2010,958,3973,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Mugil cephalus,3
+2010,958,3973,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Micropogonias undulatus,15
+2010,958,3973,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Leiostomus xanthurus,94
+2010,958,3973,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Brevoortia tyrannus,21
+2010,958,3973,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Lagodon rhomboides,244
+2010,958,3974,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,102.08,Leiostomus xanthurus,80
+2010,958,3974,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,102.08,Paralichthys lethostigma,16
+2010,958,3974,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,102.08,Paralichthys dentatus,3
+2010,958,3974,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,102.08,Paralichthys albigutta,29
+2010,958,3974,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,102.08,Myrophis punctatus,5
+2010,958,3974,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,102.08,Mugil cephalus,2
+2010,958,3974,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,102.08,Lagodon rhomboides,310
+2010,958,3974,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,102.08,Brevoortia tyrannus,12
+2010,958,3974,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,102.08,Anguilla rostrata,1
+2010,958,3974,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,102.08,Micropogonias undulatus,16
+2010,958,3975,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys lethostigma,25
+2010,958,3975,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Scophthalmus aquosus,1
+2010,958,3975,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys dentatus,5
+2010,958,3975,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys albigutta,13
+2010,958,3975,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Micropogonias undulatus,29
+2010,958,3975,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Leiostomus xanthurus,154
+2010,958,3975,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Lagodon rhomboides,278
+2010,958,3975,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Brevoortia tyrannus,12
+2010,958,3975,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,95.04,Myrophis punctatus,1
+2010,958,3976,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,91.52,Leiostomus xanthurus,39
+2010,958,3976,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,91.52,Paralichthys lethostigma,10
+2010,958,3976,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,91.52,Paralichthys albigutta,7
+2010,958,3976,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,91.52,Myrophis punctatus,4
+2010,958,3976,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,91.52,Brevoortia tyrannus,16
+2010,958,3976,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,91.52,Micropogonias undulatus,14
+2010,958,3976,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,91.52,Lagodon rhomboides,139
+2010,958,3976,Yes,1/27/2010,13,2010,10.4,,,9.7,32.3,9.8,Yes,Processed,Neuston,1MM,1,,91.52,Mugil cephalus,1
+2010,959,3977,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,95.04,Lagodon rhomboides,70
+2010,959,3977,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys albigutta,1
+2010,959,3977,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys lethostigma,4
+2010,959,3977,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,95.04,Myrophis punctatus,7
+2010,959,3977,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,95.04,Brevoortia tyrannus,9
+2010,959,3977,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,95.04,Micropogonias undulatus,1
+2010,959,3977,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,95.04,Leiostomus xanthurus,4
+2010,959,3978,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Micropogonias undulatus,8
+2010,959,3978,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys lethostigma,4
+2010,959,3978,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Myrophis punctatus,4
+2010,959,3978,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Leiostomus xanthurus,24
+2010,959,3978,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Lagodon rhomboides,113
+2010,959,3978,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Gobiidae,2
+2010,959,3978,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Citharichthys spilopterus,1
+2010,959,3978,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Brevoortia tyrannus,12
+2010,959,3978,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys albigutta,8
+2010,959,3979,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,88,Clupeiformes,1
+2010,959,3979,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,88,Mugil cephalus,1
+2010,959,3979,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,88,Paralichthys lethostigma,16
+2010,959,3979,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,88,Paralichthys dentatus,1
+2010,959,3979,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,88,Paralichthys albigutta,12
+2010,959,3979,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,88,Myrophis punctatus,11
+2010,959,3979,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,88,Micropogonias undulatus,17
+2010,959,3979,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,88,Leiostomus xanthurus,63
+2010,959,3979,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,88,Gobiidae,2
+2010,959,3979,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,88,Citharichthys spilopterus,1
+2010,959,3979,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,88,Brevoortia tyrannus,16
+2010,959,3979,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,88,Lagodon rhomboides,263
+2010,959,3980,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Mugil cephalus,1
+2010,959,3980,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Anguilliformes,3
+2010,959,3980,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys lethostigma,22
+2010,959,3980,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys dentatus,6
+2010,959,3980,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys albigutta,74
+2010,959,3980,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Myrophis punctatus,23
+2010,959,3980,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Leiostomus xanthurus,188
+2010,959,3980,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Lagodon rhomboides,1282
+2010,959,3980,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Gobiidae,6
+2010,959,3980,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Brevoortia tyrannus,62
+2010,959,3980,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Micropogonias undulatus,103
+2010,959,3980,Yes,2/3/2010,14,2010,8.3,,,8.1,24.2,11.1,Yes,Processed,Neuston,1MM,1,,89.76,Citharichthys spilopterus,1
+2010,961,3985,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Leiostomus xanthurus,229
+2010,961,3985,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys lethostigma,5
+2010,961,3985,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys dentatus,1
+2010,961,3985,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys albigutta,11
+2010,961,3985,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Myrophis punctatus,9
+2010,961,3985,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Micropogonias undulatus,71
+2010,961,3985,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Lagodon rhomboides,950
+2010,961,3985,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Citharichthys spilopterus,2
+2010,961,3985,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Brevoortia tyrannus,3
+2010,961,3985,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Mugil cephalus,1
+2010,961,3986,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,88,Micropogonias undulatus,126
+2010,961,3986,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,88,Paralichthys albigutta,17
+2010,961,3986,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,88,Paralichthys lethostigma,7
+2010,961,3986,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,88,Mugil cephalus,1
+2010,961,3986,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,88,Lagodon rhomboides,711
+2010,961,3986,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,88,Citharichthys spilopterus,1
+2010,961,3986,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,88,Brevoortia tyrannus,2
+2010,961,3986,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,88,Myrophis punctatus,10
+2010,961,3986,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,88,Leiostomus xanthurus,390
+2010,961,3987,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Leiostomus xanthurus,184
+2010,961,3987,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys dentatus,2
+2010,961,3987,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys albigutta,18
+2010,961,3987,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Micropogonias undulatus,56
+2010,961,3987,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys lethostigma,15
+2010,961,3987,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Lagodon rhomboides,483
+2010,961,3987,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Gobiidae,2
+2010,961,3987,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Brevoortia tyrannus,2
+2010,961,3987,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,89.76,Myrophis punctatus,3
+2010,961,3988,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,86.24,Myrophis punctatus,8
+2010,961,3988,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,86.24,Paralichthys lethostigma,8
+2010,961,3988,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,86.24,Paralichthys dentatus,2
+2010,961,3988,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,86.24,Paralichthys albigutta,14
+2010,961,3988,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,86.24,Micropogonias undulatus,62
+2010,961,3988,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,86.24,Leiostomus xanthurus,130
+2010,961,3988,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,86.24,Lagodon rhomboides,315
+2010,961,3988,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,86.24,Anguilla rostrata,1
+2010,961,3988,Yes,2/17/2010,16,2010,7.5,,,8,31.2,9.9,Yes,Processed,Neuston,1MM,1,,86.24,Brevoortia tyrannus,1
+2010,962,3989,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Myrophis punctatus,11
+2010,962,3989,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Paralichthys lethostigma,19
+2010,962,3989,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Paralichthys dentatus,4
+2010,962,3989,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Citharichthys spilopterus,2
+2010,962,3989,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Paralichthys albigutta,33
+2010,962,3989,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Syngnathus,1
+2010,962,3989,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Leiostomus xanthurus,792
+2010,962,3989,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Gobiidae,2
+2010,962,3989,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Brevoortia tyrannus,19
+2010,962,3989,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Anguilla rostrata,1
+2010,962,3989,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Lagodon rhomboides,1539
+2010,962,3989,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,98.56,Micropogonias undulatus,43
+2010,962,3990,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,2,,105.6,Leiostomus xanthurus,840
+2010,962,3990,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,2,,105.6,Paralichthys lethostigma,28
+2010,962,3990,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,2,,105.6,Paralichthys dentatus,2
+2010,962,3990,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,2,,105.6,Paralichthys albigutta,18
+2010,962,3990,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,2,,105.6,Micropogonias undulatus,44
+2010,962,3990,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,2,,105.6,Lagodon rhomboides,1348
+2010,962,3990,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,2,,105.6,Gobiidae,1
+2010,962,3990,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,2,,105.6,Citharichthys spilopterus,2
+2010,962,3990,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,2,,105.6,Brevoortia tyrannus,54
+2010,962,3990,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,2,,105.6,Myrophis punctatus,11
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Micropogonias undulatus,34
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Triglidae,2
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Scophthalmus aquosus,1
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Paralichthys lethostigma,18
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Paralichthys dentatus,16
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Paralichthys albigutta,30
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Myrophis punctatus,11
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Lagodon rhomboides,1033
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Gobiidae,3
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Eucinostomus,1
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Citharichthys spilopterus,7
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Brevoortia tyrannus,36
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Atherinopsidae,1
+2010,962,3991,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,102.08,Leiostomus xanthurus,333
+2010,962,3992,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,105.6,Gobiidae,1
+2010,962,3992,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,105.6,Anguilla rostrata,1
+2010,962,3992,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,105.6,Paralichthys lethostigma,10
+2010,962,3992,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,105.6,Paralichthys dentatus,15
+2010,962,3992,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,105.6,Paralichthys albigutta,31
+2010,962,3992,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,105.6,Myrophis punctatus,17
+2010,962,3992,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,105.6,Micropogonias undulatus,31
+2010,962,3992,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,105.6,Lagodon rhomboides,930
+2010,962,3992,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,105.6,Citharichthys spilopterus,7
+2010,962,3992,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,105.6,Brevoortia tyrannus,57
+2010,962,3992,Yes,2/24/2010,17,2010,10.7,,,9.7,34.1,9.9,Yes,Processed,Neuston,1MM,1,,105.6,Leiostomus xanthurus,300
+2010,963,3993,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Micropogonias undulatus,50
+2010,963,3993,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Paralichthys albigutta,7
+2010,963,3993,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Paralichthys dentatus,2
+2010,963,3993,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Orthopristis chrysoptera,1
+2010,963,3993,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Myrophis punctatus,6
+2010,963,3993,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Lagodon rhomboides,112
+2010,963,3993,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Gobiidae,1
+2010,963,3993,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Brevoortia tyrannus,9
+2010,963,3993,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Citharichthys spilopterus,2
+2010,963,3993,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Paralichthys lethostigma,5
+2010,963,3993,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Leiostomus xanthurus,79
+2010,963,3994,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,103.84,Paralichthys dentatus,2
+2010,963,3994,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,103.84,Paralichthys lethostigma,4
+2010,963,3994,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,103.84,Paralichthys albigutta,11
+2010,963,3994,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,103.84,Myrophis punctatus,10
+2010,963,3994,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,103.84,Micropogonias undulatus,117
+2010,963,3994,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,103.84,Lagodon rhomboides,132
+2010,963,3994,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,103.84,Gobiidae,5
+2010,963,3994,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,103.84,Citharichthys spilopterus,3
+2010,963,3994,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,103.84,Brevoortia tyrannus,10
+2010,963,3994,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,103.84,Leiostomus xanthurus,158
+2010,963,3995,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Leiostomus xanthurus,209
+2010,963,3995,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Paralichthys lethostigma,5
+2010,963,3995,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Paralichthys dentatus,1
+2010,963,3995,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Paralichthys albigutta,7
+2010,963,3995,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Anguilla rostrata,4
+2010,963,3995,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Micropogonias undulatus,165
+2010,963,3995,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Lagodon rhomboides,143
+2010,963,3995,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Gobiidae,2
+2010,963,3995,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Brevoortia tyrannus,9
+2010,963,3995,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,98.56,Myrophis punctatus,8
+2010,963,3996,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,107.36,Micropogonias undulatus,258
+2010,963,3996,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,107.36,Triglidae,1
+2010,963,3996,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,107.36,Paralichthys lethostigma,13
+2010,963,3996,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,107.36,Paralichthys albigutta,14
+2010,963,3996,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,107.36,Leiostomus xanthurus,378
+2010,963,3996,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,107.36,Lagodon rhomboides,147
+2010,963,3996,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,107.36,Gobiidae,5
+2010,963,3996,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,107.36,Citharichthys spilopterus,4
+2010,963,3996,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,107.36,Brevoortia tyrannus,8
+2010,963,3996,Yes,3/3/2010,18,2010,7.4,,,8,33.1,10.3,Yes,Processed,Neuston,1MM,1,,107.36,Myrophis punctatus,14
+2010,964,3997,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,91.52,Brevoortia tyrannus,1
+2010,964,3997,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,91.52,Citharichthys spilopterus,1
+2010,964,3997,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,91.52,Lagodon rhomboides,5
+2010,964,3997,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,91.52,Leiostomus xanthurus,1
+2010,964,3997,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,91.52,Micropogonias undulatus,1
+2010,964,3997,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,91.52,Paralichthys lethostigma,1
+2010,964,3998,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,1
+2010,964,3998,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys lethostigma,1
+2010,964,3998,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Myrophis punctatus,1
+2010,964,3998,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Leiostomus xanthurus,16
+2010,964,3998,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Brevoortia tyrannus,24
+2010,964,3998,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Lagodon rhomboides,26
+2010,964,3998,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys albigutta,2
+2010,964,3999,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,102.08,Micropogonias undulatus,6
+2010,964,3999,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,102.08,Paralichthys lethostigma,2
+2010,964,3999,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,102.08,Myrophis punctatus,2
+2010,964,3999,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,102.08,Leiostomus xanthurus,29
+2010,964,3999,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,102.08,Lagodon rhomboides,76
+2010,964,3999,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,102.08,Brevoortia tyrannus,47
+2010,964,3999,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,102.08,Paralichthys albigutta,3
+2010,964,4000,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Citharichthys spilopterus,3
+2010,964,4000,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Symphurus plagiusa,1
+2010,964,4000,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys lethostigma,3
+2010,964,4000,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys dentatus,1
+2010,964,4000,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Myrophis punctatus,5
+2010,964,4000,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys albigutta,6
+2010,964,4000,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,5
+2010,964,4000,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Leiostomus xanthurus,67
+2010,964,4000,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Gobiidae,1
+2010,964,4000,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Brevoortia tyrannus,30
+2010,964,4000,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Lagodon rhomboides,132
+2010,964,4000,Yes,3/11/2010,19,2010,12.6,,,12.6,30.6,10.1,Yes,Processed,Neuston,1MM,1,,93.28,Mugil cephalus,1
+2010,965,4001,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,103.84,Leiostomus xanthurus,94
+2010,965,4001,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,103.84,Scophthalmus aquosus,1
+2010,965,4001,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,103.84,Paralichthys albigutta,3
+2010,965,4001,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,103.84,Orthopristis chrysoptera,2
+2010,965,4001,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,103.84,Micropogonias undulatus,20
+2010,965,4001,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,103.84,Lagodon rhomboides,7
+2010,965,4001,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,103.84,Congridae,1
+2010,965,4001,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,103.84,Brevoortia tyrannus,3
+2010,965,4001,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,103.84,Anguilla rostrata,2
+2010,965,4001,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,103.84,Myrophis punctatus,3
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Gobiidae,4
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Unidentified,1
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Triglidae,3
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Paralichthys albigutta,8
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Orthopristis chrysoptera,2
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Myrophis punctatus,5
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Micropogonias undulatus,19
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Leiostomus xanthurus,80
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Citharichthys spilopterus,1
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Brevoortia tyrannus,32
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Anguilliformes,1
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Anguilla rostrata,2
+2010,965,4002,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,124.96,Lagodon rhomboides,13
+2010,965,4003,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,105.6,Leiostomus xanthurus,73
+2010,965,4003,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,105.6,Triglidae,4
+2010,965,4003,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,105.6,Paralichthys dentatus,1
+2010,965,4003,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,105.6,Paralichthys albigutta,1
+2010,965,4003,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,105.6,Orthopristis chrysoptera,2
+2010,965,4003,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,105.6,Micropogonias undulatus,5
+2010,965,4003,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,105.6,Lagodon rhomboides,11
+2010,965,4003,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,105.6,Gobiidae,4
+2010,965,4003,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,105.6,Brevoortia tyrannus,18
+2010,965,4003,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,105.6,Myrophis punctatus,3
+2010,965,4004,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,93.28,Myrophis punctatus,2
+2010,965,4004,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,93.28,Orthopristis chrysoptera,8
+2010,965,4004,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,93.28,Triglidae,3
+2010,965,4004,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys,1
+2010,965,4004,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,93.28,Leiostomus xanthurus,67
+2010,965,4004,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,93.28,Brevoortia tyrannus,12
+2010,965,4004,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,93.28,Lagodon rhomboides,5
+2010,965,4004,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,93.28,Gobiidae,1
+2010,965,4004,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,13
+2010,965,4004,Yes,3/17/2010,20,2010,13.4,,,15.3,35.5,8.9,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys albigutta,1
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Gobiidae,1
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Triglidae,3
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Paralichthys lethostigma,21
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Paralichthys dentatus,50
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Paralichthys albigutta,52
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Myrophis punctatus,1
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Mugil cephalus,1
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Micropogonias undulatus,110
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Lagodon rhomboides,455
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Engraulidae,1
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Citharichthys spilopterus,11
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Callionymidae,1
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Brevoortia tyrannus,65
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Atherinopsidae,1
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Anguilla rostrata,1
+2010,966,4005,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,100.32,Leiostomus xanthurus,223
+2010,966,4006,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Micropogonias undulatus,60
+2010,966,4006,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Paralichthys dentatus,63
+2010,966,4006,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Paralichthys albigutta,35
+2010,966,4006,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Myrophis punctatus,1
+2010,966,4006,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Mugil cephalus,1
+2010,966,4006,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Lagodon rhomboides,247
+2010,966,4006,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Gobiidae,1
+2010,966,4006,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Citharichthys spilopterus,8
+2010,966,4006,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Brevoortia tyrannus,32
+2010,966,4006,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Anguilla rostrata,5
+2010,966,4006,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Paralichthys lethostigma,9
+2010,966,4006,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Leiostomus xanthurus,181
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Leiostomus xanthurus,269
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Triglidae,1
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys lethostigma,12
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys dentatus,78
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys albigutta,40
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys,6
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Myrophis punctatus,1
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Micropogonias undulatus,107
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Lagodon rhomboides,327
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Gobiidae,1
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Citharichthys spilopterus,6
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Brevoortia tyrannus,35
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Atherinopsidae,1
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Anguilla rostrata,3
+2010,966,4007,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,95.04,Mugil cephalus,1
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Lagodon rhomboides,97
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Paralichthys lethostigma,7
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Paralichthys dentatus,23
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Paralichthys albigutta,15
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Myrophis punctatus,1
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Sparidae,1
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Elopidae,1
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Citharichthys spilopterus,2
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Brevoortia tyrannus,42
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Anguilla rostrata,2
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Ahlia egmontis,1
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Micropogonias undulatus,49
+2010,966,4008,Yes,3/24/2010,21,2010,13.5,,,12.3,33.9,9.6,Yes,Processed,Neuston,1MM,1,,88,Leiostomus xanthurus,152
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Myrophis punctatus,2
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Triglidae,3
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Syngnathus,1
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Sciaenidae,1
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Paralichthys lethostigma,1
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Paralichthys dentatus,4
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Orthopristis chrysoptera,14
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Mugil cephalus,18
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Micropogonias undulatus,3
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Leiostomus xanthurus,89
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Lagodon rhomboides,10
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Brevoortia tyrannus,4
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Atherinopsidae,3
+2010,967,4009,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Paralichthys albigutta,13
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Micropogonias undulatus,1
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Syngnathus,1
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Pomatomus saltatrix,1
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys lethostigma,2
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys dentatus,1
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys albigutta,8
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Triglidae,2
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys,1
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Leiostomus xanthurus,113
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Lagodon rhomboides,18
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Elopidae,1
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Brevoortia tyrannus,12
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Atherinopsidae,2
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Mugil cephalus,12
+2010,967,4010,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Myrophis punctatus,1
+2010,967,4011,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,102.08,Leiostomus xanthurus,148
+2010,967,4011,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,102.08,Paralichthys dentatus,3
+2010,967,4011,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,102.08,Paralichthys albigutta,9
+2010,967,4011,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,102.08,Orthopristis chrysoptera,7
+2010,967,4011,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,102.08,Myrophis punctatus,1
+2010,967,4011,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,102.08,Mugil cephalus,1
+2010,967,4011,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,102.08,Lagodon rhomboides,19
+2010,967,4011,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,102.08,Elopidae,1
+2010,967,4011,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,102.08,Congridae,6
+2010,967,4011,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,102.08,Brevoortia tyrannus,19
+2010,967,4011,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,102.08,Mugil curema,2
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Micropogonias undulatus,29
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Mugil cephalus,4
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Triglidae,3
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys dentatus,3
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys albigutta,34
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Myrophis punctatus,9
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Orthopristis chrysoptera,26
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Lagodon rhomboides,19
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Gobiidae,2
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Elopidae,2
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Brevoortia tyrannus,7
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Atherinopsidae,1
+2010,967,4012,Yes,4/1/2010,22,2010,17.1,,,15.7,34.6,8,Yes,Processed,Neuston,1MM,1,,89.76,Leiostomus xanthurus,271
+2010,968,4013,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,86.24,Gobiidae,1
+2010,968,4013,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,86.24,Paralichthys albigutta,7
+2010,968,4013,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,86.24,Micropogonias undulatus,2
+2010,968,4013,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,86.24,Lagodon rhomboides,50
+2010,968,4013,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,86.24,Paralichthys lethostigma,1
+2010,968,4013,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,86.24,Brevoortia tyrannus,49
+2010,968,4013,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,86.24,Leiostomus xanthurus,118
+2010,968,4014,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,119.68,Micropogonias undulatus,3
+2010,968,4014,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,119.68,Paralichthys albigutta,2
+2010,968,4014,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,119.68,Unidentified,1
+2010,968,4014,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,119.68,Orthopristis chrysoptera,1
+2010,968,4014,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,119.68,Mugil cephalus,1
+2010,968,4014,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,119.68,Leiostomus xanthurus,63
+2010,968,4014,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,119.68,Lagodon rhomboides,11
+2010,968,4014,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,119.68,Engraulidae,2
+2010,968,4014,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,119.68,Brevoortia tyrannus,76
+2010,968,4014,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,119.68,Citharichthys spilopterus,1
+2010,968,4015,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,88,Engraulidae,1
+2010,968,4015,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,88,Syngnathus,1
+2010,968,4015,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,88,Paralichthys albigutta,4
+2010,968,4015,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,88,Orthopristis chrysoptera,1
+2010,968,4015,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,88,Leiostomus xanthurus,36
+2010,968,4015,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,88,Citharichthys spilopterus,1
+2010,968,4015,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,88,Brevoortia tyrannus,52
+2010,968,4015,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,88,Anguilla rostrata,1
+2010,968,4015,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,88,Lagodon rhomboides,10
+2010,968,4016,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,91.52,Leiostomus xanthurus,55
+2010,968,4016,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,91.52,Paralichthys dentatus,3
+2010,968,4016,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,91.52,Paralichthys albigutta,11
+2010,968,4016,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,91.52,Micropogonias undulatus,7
+2010,968,4016,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,91.52,Triglidae,2
+2010,968,4016,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,91.52,Lagodon rhomboides,20
+2010,968,4016,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,91.52,Brevoortia tyrannus,66
+2010,968,4016,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,91.52,Anguilla rostrata,2
+2010,968,4016,Yes,4/7/2010,23,2010,19,,,19,33.1,7.6,Yes,Processed,Neuston,1MM,1,,91.52,Orthopristis chrysoptera,7
+2010,969,4017,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,96.8,Orthopristis chrysoptera,2
+2010,969,4017,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,96.8,Unidentified,2
+2010,969,4017,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,96.8,Syngnathus,1
+2010,969,4017,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,96.8,Paralichthys dentatus,2
+2010,969,4017,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,96.8,Paralichthys albigutta,1
+2010,969,4017,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,96.8,Leiostomus xanthurus,5
+2010,969,4017,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,96.8,Lagodon rhomboides,1
+2010,969,4017,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,96.8,Gobiidae,3
+2010,969,4017,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,96.8,Citharichthys spilopterus,1
+2010,969,4017,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,96.8,Atherinopsidae,2
+2010,969,4017,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,96.8,Brevoortia tyrannus,7
+2010,969,4018,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Ophichthus rex,1
+2010,969,4018,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Brevoortia tyrannus,11
+2010,969,4018,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Orthopristis chrysoptera,15
+2010,969,4018,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys albigutta,1
+2010,969,4018,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Leiostomus xanthurus,4
+2010,969,4018,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Gobiidae,3
+2010,969,4018,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,4
+2010,969,4018,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Lagodon rhomboides,4
+2010,969,4019,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,91.52,Syngnathus,3
+2010,969,4019,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,91.52,Atherinopsidae,1
+2010,969,4019,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,91.52,Brevoortia tyrannus,5
+2010,969,4019,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,91.52,Gobiidae,3
+2010,969,4019,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,91.52,Leiostomus xanthurus,7
+2010,969,4019,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,91.52,Micropogonias undulatus,2
+2010,969,4019,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,91.52,Orthopristis chrysoptera,2
+2010,969,4019,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,91.52,Paralichthys albigutta,4
+2010,969,4020,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys albigutta,1
+2010,969,4020,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Orthopristis chrysoptera,2
+2010,969,4020,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,1
+2010,969,4020,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Leiostomus xanthurus,4
+2010,969,4020,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Lagodon rhomboides,1
+2010,969,4020,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Brevoortia tyrannus,3
+2010,969,4020,Yes,4/13/2010,24,2010,18.8,,,19.2,33,7.2,Yes,Processed,Neuston,1MM,1,,93.28,Gobiidae,2
+2010,970,4021,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,95.04,Lagodon rhomboides,2
+2010,970,4021,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,95.04,Syngnathus,2
+2010,970,4021,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys albigutta,1
+2010,970,4021,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,95.04,Orthopristis chrysoptera,22
+2010,970,4021,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,95.04,Triglidae,1
+2010,970,4021,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,95.04,Gobiidae,2
+2010,970,4021,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,95.04,Brevoortia tyrannus,1
+2010,970,4021,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,95.04,Anguilla rostrata,1
+2010,970,4021,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,95.04,Micropogonias undulatus,2
+2010,970,4021,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,95.04,Leiostomus xanthurus,19
+2010,970,4022,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,91.52,Micropogonias undulatus,3
+2010,970,4022,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,91.52,Triglidae,2
+2010,970,4022,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,91.52,Orthopristis chrysoptera,35
+2010,970,4022,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,91.52,Leiostomus xanthurus,10
+2010,970,4022,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,91.52,Lagodon rhomboides,2
+2010,970,4022,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,91.52,Brevoortia tyrannus,2
+2010,970,4022,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,91.52,Atherinopsidae,1
+2010,970,4022,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,91.52,Syngnathus,3
+2010,970,4023,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,126.72,Brevoortia tyrannus,1
+2010,970,4023,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,126.72,Clupeiformes,1
+2010,970,4023,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,126.72,Gobiidae,1
+2010,970,4023,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,126.72,Leiostomus xanthurus,1
+2010,970,4023,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,126.72,Orthopristis chrysoptera,6
+2010,970,4024,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,96.8,Leiostomus xanthurus,2
+2010,970,4024,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,96.8,Lagodon rhomboides,2
+2010,970,4024,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,96.8,Micropogonias undulatus,1
+2010,970,4024,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,96.8,Engraulidae,4
+2010,970,4024,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,96.8,Anguilla rostrata,2
+2010,970,4024,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,96.8,Brevoortia tyrannus,1
+2010,970,4024,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,96.8,Orthopristis chrysoptera,10
+2010,970,4024,Yes,4/21/2010,25,2010,18.1,,,,,,Yes,Processed,Neuston,1MM,1,,96.8,Gobiidae,1
+2010,971,4025,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Brevoortia tyrannus,5
+2010,971,4025,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Synodontidae,7
+2010,971,4025,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Orthopristis chrysoptera,8
+2010,971,4025,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Leiostomus xanthurus,22
+2010,971,4025,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Engraulidae,7
+2010,971,4025,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Atherinopsidae,4
+2010,971,4025,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Anguilla rostrata,1
+2010,971,4025,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Lagodon rhomboides,1
+2010,971,4026,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,132,Pomacentridae,1
+2010,971,4026,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,132,Brevoortia tyrannus,25
+2010,971,4026,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,132,Synodontidae,1
+2010,971,4026,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,132,Triglidae,1
+2010,971,4026,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,132,Percoidei,63
+2010,971,4026,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,132,Epinephelinae,1
+2010,971,4026,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,132,Mugil cephalus,1
+2010,971,4027,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,121.44,Atherinopsidae,12
+2010,971,4027,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,121.44,Brevoortia tyrannus,2
+2010,971,4027,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,121.44,Percoidei,7
+2010,971,4027,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,121.44,Triglidae,1
+2010,971,4027,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,121.44,Unidentified,20
+2010,971,4028,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Leiostomus xanthurus,4
+2010,971,4028,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Synodontidae,1
+2010,971,4028,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Syngnathus,1
+2010,971,4028,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Brevoortia tyrannus,7
+2010,971,4028,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Atherinopsidae,1
+2010,971,4028,Yes,4/27/2010,26,2010,19.2,,,,,,No,Processed,Neuston,1MM,1,,96.8,Gobiidae,3
+2010,972,4029,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,89.76,Blenniidae,4
+2010,972,4029,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,89.76,Engraulidae,77
+2010,972,4029,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,89.76,Gobiidae,1
+2010,972,4029,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,89.76,Orthopristis chrysoptera,2
+2010,972,4029,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,89.76,Syngnathidae,1
+2010,972,4030,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,91.52,Mugil,1
+2010,972,4030,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,91.52,Synodontidae,1
+2010,972,4030,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,91.52,Orthopristis chrysoptera,2
+2010,972,4030,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,91.52,Leiostomus xanthurus,1
+2010,972,4030,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,91.52,Engraulidae,153
+2010,972,4030,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,91.52,Blenniidae,4
+2010,972,4030,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,91.52,Syngnathidae,3
+2010,972,4031,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,89.76,Atherinopsidae,1
+2010,972,4031,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,89.76,Blenniidae,2
+2010,972,4031,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,89.76,Engraulidae,120
+2010,972,4031,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,89.76,Gobiidae,1
+2010,972,4031,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,89.76,Orthopristis chrysoptera,3
+2010,972,4031,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,89.76,Syngnathidae,2
+2010,972,4032,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,93.28,Orthopristis chrysoptera,6
+2010,972,4032,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,93.28,Gobiidae,1
+2010,972,4032,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,93.28,Syngnathidae,1
+2010,972,4032,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,93.28,Cynoscion,1
+2010,972,4032,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,93.28,Clupeiformes,4
+2010,972,4032,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,93.28,Blenniidae,2
+2010,972,4032,Yes,5/5/2010,27,2010,23.1,,,,,,No,Processed,Neuston,1MM,1,,93.28,Engraulidae,101
+2010,973,4033,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,100.32,Cynoscion,2
+2010,973,4033,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,100.32,Engraulidae,46
+2010,973,4033,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,100.32,Bairdiella chrysoura,1
+2010,973,4033,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,100.32,Orthopristis chrysoptera,2
+2010,973,4033,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,100.32,Syngnathidae,1
+2010,973,4033,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,100.32,Atherinopsidae,1
+2010,973,4034,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,89.76,Bairdiella chrysoura,5
+2010,973,4034,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,89.76,Synodontidae,1
+2010,973,4034,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,89.76,Syngnathidae,2
+2010,973,4034,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,89.76,Micropogonias undulatus,1
+2010,973,4034,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,89.76,Cynoscion,2
+2010,973,4034,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,89.76,Blenniidae,1
+2010,973,4034,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,89.76,Atherinopsidae,2
+2010,973,4034,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,89.76,Engraulidae,40
+2010,973,4034,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,89.76,Orthopristis chrysoptera,5
+2010,973,4035,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,88,Cynoscion,1
+2010,973,4035,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,88,Triglidae,3
+2010,973,4035,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,88,Syngnathidae,2
+2010,973,4035,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,88,Orthopristis chrysoptera,4
+2010,973,4035,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,88,Myrophis punctatus,2
+2010,973,4035,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,88,Engraulidae,26
+2010,973,4035,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,88,Clupeiformes,1
+2010,973,4035,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,88,Atherinopsidae,3
+2010,973,4035,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,88,Menticirrhus,1
+2010,973,4036,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,105.6,Belonidae,1
+2010,973,4036,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,105.6,Atherinopsidae,6
+2010,973,4036,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,105.6,Menticirrhus,1
+2010,973,4036,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,105.6,Synodontidae,1
+2010,973,4036,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,105.6,Orthopristis chrysoptera,3
+2010,973,4036,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,105.6,Bairdiella chrysoura,3
+2010,973,4036,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,105.6,Blenniidae,1
+2010,973,4036,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,105.6,Gobiidae,1
+2010,973,4036,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,105.6,Cynoscion,2
+2010,973,4036,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,105.6,Engraulidae,10
+2010,973,4036,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,105.6,Syngnathidae,4
+2010,973,4036,Yes,5/12/2010,28,2010,20,,,,,,No,Processed,Neuston,1MM,1,,105.6,Lagodon rhomboides,1
+2011,974,4037,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,109.12,Micropogonias undulatus,54
+2011,974,4037,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,109.12,Unidentified,2
+2011,974,4037,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,109.12,Syngnathidae,2
+2011,974,4037,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,109.12,Sciaenops ocellatus,1
+2011,974,4037,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,109.12,Menticirrhus,1
+2011,974,4037,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,109.12,Gobiidae,34
+2011,974,4037,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,109.12,Engraulidae,38
+2011,974,4037,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,109.12,Symphurus,1
+2011,974,4038,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,105.6,Symphurus,2
+2011,974,4038,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,105.6,Engraulidae,40
+2011,974,4038,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,105.6,Unidentified,5
+2011,974,4038,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,105.6,Syngnathidae,1
+2011,974,4038,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,105.6,Chloroscombrus chrysurus,1
+2011,974,4038,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,105.6,Gobiidae,36
+2011,974,4038,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,105.6,Sciaenops ocellatus,2
+2011,974,4038,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,105.6,Micropogonias undulatus,85
+2011,974,4039,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,158.4,Engraulidae,8
+2011,974,4039,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,158.4,Gobiidae,34
+2011,974,4039,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,158.4,Micropogonias undulatus,56
+2011,974,4039,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,158.4,Sciaenops ocellatus,2
+2011,974,4039,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,158.4,Symphurus,1
+2011,974,4039,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,158.4,Triglidae,1
+2011,974,4039,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,158.4,Unidentified,3
+2011,974,4040,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,110.88,Micropogonias undulatus,162
+2011,974,4040,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,110.88,Unidentified,10
+2011,974,4040,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,110.88,Symphurus,1
+2011,974,4040,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,110.88,Orthopristis chrysoptera,8
+2011,974,4040,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,110.88,Gobiidae,18
+2011,974,4040,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,110.88,Engraulidae,29
+2011,974,4040,Yes,10/6/2010,49,2010,22.7,,,22.7,31.6,6.6,No,Processed,Neuston,1MM,1,,110.88,Sciaenops ocellatus,5
+2011,975,4041,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,89.76,Atherinopsidae,1
+2011,975,4041,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,89.76,Engraulidae,2
+2011,975,4041,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,89.76,Eucinostomus,6
+2011,975,4041,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,89.76,Gobiidae,1
+2011,975,4041,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,89.76,Unidentified,1
+2011,975,4042,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,98.56,Engraulidae,4
+2011,975,4042,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,98.56,Triglidae,1
+2011,975,4042,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,98.56,Syngnathidae,1
+2011,975,4042,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,98.56,Eucinostomus,3
+2011,975,4042,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,98.56,Blenniidae,1
+2011,975,4042,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,98.56,Atherinopsidae,2
+2011,975,4042,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,98.56,Micropogonias undulatus,4
+2011,975,4043,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,95.04,Engraulidae,4
+2011,975,4043,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,95.04,Eucinostomus,7
+2011,975,4043,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,95.04,Gobiidae,2
+2011,975,4043,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,95.04,Micropogonias undulatus,6
+2011,975,4044,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,98.56,Engraulidae,4
+2011,975,4044,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,98.56,Eucinostomus,6
+2011,975,4044,Yes,10/13/2010,50,2010,24,,,24,33.3,7.2,No,Processed,Neuston,1MM,1,,98.56,Micropogonias undulatus,2
+2011,976,4045,Yes,10/21/2010,51,2010,21.2,33.1,8.2,21.5,34,6.8,No,Processed,Neuston,1MM,1,,102.08,Atherinopsidae,1
+2011,976,4045,Yes,10/21/2010,51,2010,21.2,33.1,8.2,21.5,34,6.8,No,Processed,Neuston,1MM,1,,102.08,Eucinostomus,1
+2011,976,4045,Yes,10/21/2010,51,2010,21.2,33.1,8.2,21.5,34,6.8,No,Processed,Neuston,1MM,1,,102.08,Micropogonias undulatus,6
+2011,976,4045,Yes,10/21/2010,51,2010,21.2,33.1,8.2,21.5,34,6.8,No,Processed,Neuston,1MM,1,,102.08,Triglidae,1
+2011,976,4046,Yes,10/21/2010,51,2010,21.2,33.1,8.2,21.5,34,6.8,No,Processed,Neuston,1MM,1,,96.8,Micropogonias undulatus,28
+2011,976,4046,Yes,10/21/2010,51,2010,21.2,33.1,8.2,21.5,34,6.8,No,Processed,Neuston,1MM,1,,96.8,Gobiidae,1
+2011,976,4046,Yes,10/21/2010,51,2010,21.2,33.1,8.2,21.5,34,6.8,No,Processed,Neuston,1MM,1,,96.8,Atherinopsidae,3
+2011,976,4046,Yes,10/21/2010,51,2010,21.2,33.1,8.2,21.5,34,6.8,No,Processed,Neuston,1MM,1,,96.8,Blenniidae,1
+2011,976,4047,Yes,10/21/2010,51,2010,21.2,33.1,8.2,21.5,34,6.8,No,Processed,Neuston,1MM,1,,103.84,Gobiidae,1
+2011,976,4047,Yes,10/21/2010,51,2010,21.2,33.1,8.2,21.5,34,6.8,No,Processed,Neuston,1MM,1,,103.84,Micropogonias undulatus,18
+2011,976,4048,Yes,10/21/2010,51,2010,21.2,33.1,8.2,21.5,34,6.8,No,Processed,Neuston,1MM,1,,95.04,Eucinostomus,1
+2011,976,4048,Yes,10/21/2010,51,2010,21.2,33.1,8.2,21.5,34,6.8,No,Processed,Neuston,1MM,1,,95.04,Micropogonias undulatus,12
+2011,977,4049,Yes,10/27/2010,52,2010,23.5,32.7,8.03,22.8,39.3,7,No,Processed,Neuston,1MM,1,,89.76,Eucinostomus,2
+2011,977,4050,Yes,10/27/2010,52,2010,23.5,32.7,8.03,22.8,39.3,7,No,Processed,Neuston,1MM,1,,89.76,Eucinostomus,11
+2011,977,4051,Yes,10/27/2010,52,2010,23.5,32.7,8.03,22.8,39.3,7,No,Processed,Neuston,1MM,1,,102.08,Eucinostomus,5
+2011,977,4051,Yes,10/27/2010,52,2010,23.5,32.7,8.03,22.8,39.3,7,No,Processed,Neuston,1MM,1,,102.08,Gobiidae,1
+2011,977,4051,Yes,10/27/2010,52,2010,23.5,32.7,8.03,22.8,39.3,7,No,Processed,Neuston,1MM,1,,102.08,Lutjanidae,1
+2011,977,4052,Yes,10/27/2010,52,2010,23.5,32.7,8.03,22.8,39.3,7,No,Processed,Neuston,1MM,1,,91.52,Micropogonias undulatus,1
+2011,977,4052,Yes,10/27/2010,52,2010,23.5,32.7,8.03,22.8,39.3,7,No,Processed,Neuston,1MM,1,,91.52,Eucinostomus,5
+2011,978,4053,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,102.08,Eucinostomus,1
+2011,978,4053,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,102.08,Leiostomus xanthurus,1
+2011,978,4053,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,102.08,Micropogonias undulatus,17
+2011,978,4053,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,102.08,Mugil curema,1
+2011,978,4054,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,114.4,Micropogonias undulatus,9
+2011,978,4054,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,114.4,Engraulidae,4
+2011,978,4054,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,114.4,Eucinostomus,1
+2011,978,4055,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,110.88,Micropogonias undulatus,24
+2011,978,4055,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,110.88,Gobiidae,1
+2011,978,4055,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,110.88,Engraulidae,6
+2011,978,4055,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,110.88,Eucinostomus,1
+2011,978,4056,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,107.36,Micropogonias undulatus,4
+2011,978,4056,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,107.36,Trachinotus,1
+2011,978,4056,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,107.36,Atherinopsidae,1
+2011,978,4056,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,107.36,Mugil curema,2
+2011,978,4056,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,107.36,Leiostomus xanthurus,2
+2011,978,4056,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,107.36,Eucinostomus,2
+2011,978,4056,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,107.36,Elops saurus,1
+2011,978,4056,Yes,11/3/2010,53,2010,17.9,32.4,10.1,19,39.8,7.1,No,Processed,Neuston,1MM,1,,107.36,Engraulidae,3
+2011,979,4057,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Eucinostomus,1
+2011,979,4057,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Gobiidae,1
+2011,979,4057,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,5
+2011,979,4057,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Mugil curema,1
+2011,979,4058,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Triglidae,1
+2011,979,4058,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,17
+2011,979,4058,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Gobiidae,2
+2011,979,4058,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Engraulidae,1
+2011,979,4058,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Eucinostomus,1
+2011,979,4059,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Epinephelinae,1
+2011,979,4059,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Eucinostomus,6
+2011,979,4059,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Lagodon rhomboides,3
+2011,979,4059,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,4
+2011,979,4059,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Mugil curema,1
+2011,979,4059,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Triglidae,2
+2011,979,4059,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,93.28,Engraulidae,1
+2011,979,4060,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,79.2,Mugil cephalus,4
+2011,979,4060,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,79.2,Myrophis punctatus,1
+2011,979,4060,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,79.2,Atherinopsidae,2
+2011,979,4060,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,79.2,Lagodon rhomboides,1
+2011,979,4060,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,79.2,Eucinostomus,3
+2011,979,4060,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,79.2,Micropogonias undulatus,24
+2011,979,4060,Yes,11/10/2010,1,2010,15.5,31.8,9.83,16.4,38.8,7.8,Yes,Processed,Neuston,1MM,1,,79.2,Triglidae,1
+2011,980,4061,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,91.52,Brevoortia tyrannus,1
+2011,980,4061,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,91.52,Micropogonias undulatus,4
+2011,980,4061,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,91.52,Myrophis punctatus,1
+2011,980,4062,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Brevoortia tyrannus,1
+2011,980,4062,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Myrophis punctatus,2
+2011,980,4062,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Micropogonias undulatus,3
+2011,980,4062,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Gobiidae,5
+2011,980,4062,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,105.6,Lagodon rhomboides,1
+2011,980,4063,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Micropogonias undulatus,18
+2011,980,4063,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Lagodon rhomboides,7
+2011,980,4063,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Triglidae,2
+2011,980,4063,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Atherinopsidae,1
+2011,980,4063,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Gobiidae,3
+2011,980,4063,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Brevoortia tyrannus,9
+2011,980,4063,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Myrophis punctatus,3
+2011,980,4064,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Brevoortia tyrannus,4
+2011,980,4064,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Eucinostomus,2
+2011,980,4064,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Gobiidae,4
+2011,980,4064,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Lagodon rhomboides,5
+2011,980,4064,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Micropogonias undulatus,65
+2011,980,4064,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Myrophis punctatus,5
+2011,980,4064,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys albigutta,1
+2011,980,4064,Yes,11/17/2010,2,2010,16.2,31.4,8,16.7,36.6,8,Yes,Processed,Neuston,1MM,1,,95.04,Triglidae,2
+2011,981,4065,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,1
+2011,981,4065,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,93.28,Syngnathidae,1
+2011,981,4065,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,93.28,Myrophis punctatus,2
+2011,981,4065,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,93.28,Lagodon rhomboides,7
+2011,981,4065,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,93.28,Brevoortia tyrannus,13
+2011,981,4065,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys albigutta,2
+2011,981,4066,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,95.04,Atherinopsidae,1
+2011,981,4066,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,95.04,Brevoortia tyrannus,2
+2011,981,4066,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,95.04,Gobiidae,1
+2011,981,4066,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,95.04,Lagodon rhomboides,4
+2011,981,4066,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,95.04,Micropogonias undulatus,5
+2011,981,4066,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,95.04,Uranoscopidae,1
+2011,981,4067,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,96.8,Brevoortia tyrannus,2
+2011,981,4067,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,96.8,Micropogonias undulatus,2
+2011,981,4067,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,96.8,Urophycis,1
+2011,981,4067,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,96.8,Myrophis punctatus,1
+2011,981,4067,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,96.8,Lagodon rhomboides,4
+2011,981,4067,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,96.8,Gobiidae,1
+2011,981,4067,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,96.8,Clupeiformes,1
+2011,981,4067,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,96.8,Leiostomus xanthurus,1
+2011,981,4067,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,96.8,Engraulidae,1
+2011,981,4068,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,98.56,Gobiidae,3
+2011,981,4068,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,98.56,Myrophis punctatus,1
+2011,981,4068,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,98.56,Lagodon rhomboides,4
+2011,981,4068,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,98.56,Eucinostomus,1
+2011,981,4068,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,98.56,Elops saurus,2
+2011,981,4068,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,98.56,Brevoortia tyrannus,6
+2011,981,4068,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,98.56,Atherinopsidae,1
+2011,981,4068,Yes,11/24/2010,3,2010,16.5,,,16.5,35.4,8.2,Yes,Processed,Neuston,1MM,1,,98.56,Micropogonias undulatus,1
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Stephanolepis,1
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Micropogonias undulatus,86
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Triglidae,2
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Paralichthys dentatus,1
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Paralichthys albigutta,5
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Myrophis punctatus,40
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Gobiidae,2
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Eucinostomus,7
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Engraulidae,1
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Elops saurus,4
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Brevoortia tyrannus,63
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Atherinopsidae,2
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Lagodon rhomboides,104
+2011,982,4069,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,102.08,Urophycis,3
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Urophycis,5
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys albigutta,3
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Paralichthys lethostigma,3
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Stephanolepis,1
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Symphurus,1
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Triglidae,1
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Lagodon rhomboides,124
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Syngnathidae,5
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Micropogonias undulatus,82
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Gobiidae,5
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Eucinostomus,10
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Elops saurus,2
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Brevoortia tyrannus,33
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Atherinopsidae,3
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Ahlia egmontis,3
+2011,982,4070,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,89.76,Myrophis punctatus,23
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Lagodon rhomboides,71
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Urophycis,4
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Syngnathidae,4
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Micropogonias undulatus,53
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Myrophis punctatus,34
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Eucinostomus,18
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Ahlia egmontis,1
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Engraulidae,1
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Elops saurus,5
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Brevoortia tyrannus,38
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Atherinopsidae,1
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Paralichthys albigutta,1
+2011,982,4071,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,96.8,Gobiidae,6
+2011,982,4072,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,107.36,Myrophis punctatus,18
+2011,982,4072,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,107.36,Urophycis,1
+2011,982,4072,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,107.36,Paralichthys dentatus,1
+2011,982,4072,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,107.36,Micropogonias undulatus,25
+2011,982,4072,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,107.36,Leiostomus xanthurus,1
+2011,982,4072,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,107.36,Brevoortia tyrannus,15
+2011,982,4072,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,107.36,Lagodon rhomboides,27
+2011,982,4072,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,107.36,Eucinostomus,6
+2011,982,4072,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,107.36,Gobiidae,3
+2011,982,4072,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,107.36,Lutjanidae,1
+2011,982,4072,Yes,12/1/2010,4,2010,15.3,30.5,9.4,,,,Yes,Processed,Neuston,1MM,1,,107.36,Syngnathidae,1
+2011,983,4073,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Engraulidae,1
+2011,983,4073,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Unidentified,9
+2011,983,4073,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Paralichthys albigutta,3
+2011,983,4073,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Lagodon rhomboides,6
+2011,983,4073,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Clupeiformes,1
+2011,983,4073,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Brevoortia tyrannus,1
+2011,983,4073,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Micropogonias undulatus,6
+2011,983,4074,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Monacanthidae,2
+2011,983,4074,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Urophycis,1
+2011,983,4074,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Paralichthys albigutta,1
+2011,983,4074,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Myrophis punctatus,6
+2011,983,4074,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Engraulidae,1
+2011,983,4074,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Eucinostomus,2
+2011,983,4074,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Brevoortia tyrannus,1
+2011,983,4074,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Elops saurus,1
+2011,983,4074,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Lagodon rhomboides,4
+2011,983,4074,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,91.52,Micropogonias undulatus,20
+2011,983,4075,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,88,Syngnathidae,1
+2011,983,4075,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,88,Unidentified,4
+2011,983,4075,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,88,Paralichthys albigutta,4
+2011,983,4075,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,88,Ophidiidae,1
+2011,983,4075,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,88,Micropogonias undulatus,15
+2011,983,4075,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,88,Lagodon rhomboides,4
+2011,983,4075,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,88,Gobiidae,1
+2011,983,4075,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,88,Engraulidae,1
+2011,983,4075,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,88,Myrophis punctatus,3
+2011,983,4076,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,98.56,Lagodon rhomboides,21
+2011,983,4076,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,98.56,Paralichthys albigutta,2
+2011,983,4076,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,98.56,Myrophis punctatus,8
+2011,983,4076,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,98.56,Brevoortia tyrannus,4
+2011,983,4076,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,98.56,Leiostomus xanthurus,1
+2011,983,4076,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,98.56,Gobiidae,1
+2011,983,4076,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,98.56,Engraulidae,1
+2011,983,4076,Yes,12/8/2010,5,2010,8.4,,,8.4,31.7,9.3,Yes,Processed,Neuston,1MM,1,,98.56,Micropogonias undulatus,15
+2011,984,4077,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,95.04,Unidentified,3
+2011,984,4077,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,95.04,Paralichthys albigutta,1
+2011,984,4077,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,95.04,Lagodon rhomboides,1
+2011,984,4077,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,95.04,Engraulidae,1
+2011,984,4077,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,95.04,Brevoortia tyrannus,1
+2011,984,4077,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,95.04,Myrophis punctatus,3
+2011,984,4077,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,95.04,Micropogonias undulatus,9
+2011,984,4078,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Brevoortia tyrannus,3
+2011,984,4078,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Clupeiformes,1
+2011,984,4078,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Engraulidae,1
+2011,984,4078,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Lagodon rhomboides,3
+2011,984,4078,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,6
+2011,984,4078,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Myrophis punctatus,2
+2011,984,4078,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys albigutta,4
+2011,984,4079,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Leiostomus xanthurus,3
+2011,984,4079,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys albigutta,3
+2011,984,4079,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,21
+2011,984,4079,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Lagodon rhomboides,7
+2011,984,4079,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Brevoortia tyrannus,4
+2011,984,4079,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Gobiidae,1
+2011,984,4079,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Engraulidae,12
+2011,984,4079,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,93.28,Myrophis punctatus,3
+2011,984,4080,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,116.16,Lagodon rhomboides,13
+2011,984,4080,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,116.16,Paralichthys albigutta,5
+2011,984,4080,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,116.16,Myrophis punctatus,5
+2011,984,4080,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,116.16,Leiostomus xanthurus,12
+2011,984,4080,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,116.16,Engraulidae,8
+2011,984,4080,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,116.16,Brevoortia tyrannus,12
+2011,984,4080,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,116.16,Anguilla rostrata,1
+2011,984,4080,Yes,12/15/2010,6,2010,5.8,30.1,11.6,7,31.4,9.4,Yes,Processed,Neuston,1MM,1,,116.16,Micropogonias undulatus,22
+2011,985,4081,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,105.6,Brevoortia tyrannus,1
+2011,985,4081,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,105.6,Paralichthys albigutta,3
+2011,985,4081,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,105.6,Myrophis punctatus,7
+2011,985,4081,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,105.6,Leiostomus xanthurus,4
+2011,985,4081,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,105.6,Engraulidae,1
+2011,985,4081,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,105.6,Micropogonias undulatus,14
+2011,985,4081,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,105.6,Lagodon rhomboides,1
+2011,985,4082,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,103.84,Brevoortia tyrannus,3
+2011,985,4082,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,103.84,Engraulidae,2
+2011,985,4082,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,103.84,Lagodon rhomboides,3
+2011,985,4082,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,103.84,Leiostomus xanthurus,3
+2011,985,4082,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,103.84,Micropogonias undulatus,5
+2011,985,4082,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,103.84,Myrophis punctatus,6
+2011,985,4082,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,103.84,Paralichthys albigutta,5
+2011,985,4083,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,I,102.08,Lagodon rhomboides,1
+2011,985,4083,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,I,102.08,Paralichthys albigutta,1
+2011,985,4083,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,I,102.08,Myrophis punctatus,7
+2011,985,4083,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,I,102.08,Leiostomus xanthurus,4
+2011,985,4083,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,I,102.08,Engraulidae,1
+2011,985,4083,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,I,102.08,Micropogonias undulatus,9
+2011,985,4084,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,91.52,Brevoortia tyrannus,3
+2011,985,4084,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,91.52,Lagodon rhomboides,3
+2011,985,4084,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,91.52,Leiostomus xanthurus,3
+2011,985,4084,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,91.52,Micropogonias undulatus,5
+2011,985,4084,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,91.52,Myrophis punctatus,6
+2011,985,4084,Yes,12/22/2010,7,2010,7.2,31,10.9,,,,Yes,Processed,Neuston,1MM,1,,91.52,Paralichthys albigutta,2
+2011,986,4085,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,93.28,Leiostomus xanthurus,3
+2011,986,4085,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,93.28,Micropogonias undulatus,3
+2011,986,4085,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,93.28,Brevoortia tyrannus,3
+2011,986,4085,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,93.28,Paralichthys albigutta,1
+2011,986,4085,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,93.28,Lagodon rhomboides,1
+2011,986,4086,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,100.32,Engraulidae,1
+2011,986,4086,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,100.32,Lagodon rhomboides,1
+2011,986,4086,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,100.32,Leiostomus xanthurus,8
+2011,986,4086,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,100.32,Micropogonias undulatus,11
+2011,986,4086,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,100.32,Paralichthys albigutta,1
+2011,986,4086,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,100.32,Paralichthys dentatus,1
+2011,986,4087,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,114.4,Lagodon rhomboides,1
+2011,986,4087,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,114.4,Paralichthys lethostigma,1
+2011,986,4087,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,114.4,Paralichthys albigutta,4
+2011,986,4087,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,114.4,Myrophis punctatus,7
+2011,986,4087,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,114.4,Leiostomus xanthurus,7
+2011,986,4087,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,114.4,Micropogonias undulatus,17
+2011,986,4088,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,110.88,Paralichthys albigutta,3
+2011,986,4088,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,110.88,Leiostomus xanthurus,6
+2011,986,4088,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,110.88,Paralichthys lethostigma,2
+2011,986,4088,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,110.88,Micropogonias undulatus,13
+2011,986,4088,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,110.88,Lagodon rhomboides,1
+2011,986,4088,Yes,12/29/2010,8,2010,4.7,30.5,13.1,,,,Yes,Processed,Neuston,1MM,1,,110.88,Myrophis punctatus,3

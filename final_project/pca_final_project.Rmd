@@ -1,0 +1,267 @@
+---
+title: "pca_final_project"
+author: "Jessica Miller"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+Purpose: Dimensionality reduction with PCA of oceanographic buoy data for use in GLMs.
+DataSource: https://www.ndbc.noaa.gov/station_history.php?station=bftn7
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Install and load necessary libraries
+
+```{r message=FALSE}
+# install.packages("dplyr")
+# install.packages("lubridate")
+# install.packages("FactoMineR")
+# install.packages("factoextra")
+
+library(MASS) # For negative binomial regression
+library(dplyr)
+library(lubridate)
+library(FactoMineR)
+library(factoextra)
+
+```
+
+#### Load environmental data
+
+```{r}
+buoydata_full <- read.table("bftn7h2010.txt", header=TRUE)
+
+```
+
+#### Select and filter necessary variables
+```{r}
+buoydata <- buoydata_full %>%
+  select(YY, MM, DD, hh, WDIR, WSPD, GST, PRES, ATMP, WTMP) %>%
+  filter(WDIR < 999, WSPD < 99, GST < 99, WTMP < 999)
+summary(buoydata)
+```
+
+#### Inspect variables
+```{r}
+hist(buoydata$WDIR)
+hist(buoydata$WSPD)
+hist(buoydata$GST)
+hist(buoydata$PRES)
+hist(buoydata$ATMP)
+hist(buoydata$WTMP)
+```
+
+#### Assign Week numbers to dates
+```{r}
+buoydata <- buoydata %>%
+  mutate(Date = make_date(YY, MM, DD)) %>%
+   mutate(Week = week(Date))
+head(buoydata)
+```
+
+#### Average the data by hour and day to reduce variables
+```{r}
+hourly_avg <- buoydata %>%
+  group_by(YY, MM, DD, hh) %>%
+  summarise(
+    avg_WDIR = mean(WDIR, na.rm = TRUE),
+    avg_WSPD = mean(WSPD, na.rm = TRUE),
+    avg_GST = mean(GST, na.rm = TRUE),
+    avg_PRES = mean(PRES, na.rm = TRUE),
+    avg_ATMP = mean(ATMP, na.rm = TRUE),
+    avg_WTMP = mean(WTMP, na.rm = TRUE)
+  )
+head(hourly_avg)
+```
+
+#### Remove data columns, select only weeks before and after storms
+```{r}
+buoydata_before <- buoydata %>%
+  filter(Week >= 32 & Week <= 34) %>%
+    select(-YY, -MM, -DD, -hh, -Date, -Week) %>%
+      mutate(category = "before") %>%
+          mutate()
+
+
+buoydata_after <- buoydata %>%
+  filter(Week >= 36 & Week <= 38) %>%
+  select(-YY, -MM, -DD, -hh, -Date, -Week) %>%
+    mutate(category = "after")
+
+head(buoydata_before)
+head(buoydata_after)
+```
+
+#### Combine before and after data frames
+```{r}
+allbuoydata <- rbind(buoydata_before, buoydata_after)
+head(allbuoydata)
+summary(allbuoydata)
+```
+
+#### Run PCA on full dataframe
+```{r}
+#convert to factor to comply with PCA()
+allbuoydata$category <- as.factor(allbuoydata$category)
+
+#select only col 1:6 so PCA ignores category column
+pca <- PCA(allbuoydata[,1:6], scale.unit = TRUE, graph = FALSE)
+summary(pca)
+fviz_pca_biplot(pca, label="var", habillage=allbuoydata$category,
+                addEllipses=TRUE, ellipse.level=0.95, col.var="black", 
+                palette=c("cadetblue", "darkslateblue"), 
+                arrow.size=5, labelsize=5,
+                title="Hurricane Earl (2010), PCA Results")
+```
+
+#### Run PCA on before and after data separately
+```{r}
+buoydata_before$category <- as.factor(buoydata_before$category)
+pca_before <- PCA(buoydata_before[,1:6], scale.unit = TRUE, graph = FALSE)
+summary(pca_before)
+fviz_pca_biplot(pca_before, label="var", habillage=buoydata_before$category, 
+                col.var="black", palette=c("darkslateblue"),
+                arrow.size=5, labelsize=5)
+
+buoydata_after$category <- as.factor(buoydata_after$category)
+pca_after <- PCA(buoydata_after[,1:6], scale.unit = TRUE, graph = FALSE)
+summary(pca_after)
+fviz_pca_biplot(pca_after,label="var", habillage=buoydata_after$category, 
+                col.var="black", palette=c("cadetblue"),
+                arrow.size=5, labelsize=5)
+```
+
+#### Generate Scree Plots
+```{r}
+# all
+eigenvalues <- pca$eig
+head(eigenvalues[, 1:2])
+
+
+barplot(eigenvalues[, 2], names.arg=1:nrow(eigenvalues), 
+        main = "Variances - All",
+        xlab = "Principal Components",
+        ylab = "Percentage of variances",
+        col ="steelblue")
+lines(x = 1:nrow(eigenvalues), eigenvalues[, 2], 
+      type="b", pch=19, col = "deeppink4")
+
+# before
+
+eigenvalues_b <- pca_before$eig
+head(eigenvalues_b[, 1:2])
+
+
+barplot(eigenvalues_b[, 2], names.arg=1:nrow(eigenvalues_b), 
+        main = "Variances - Before",
+        xlab = "Principal Components",
+        ylab = "Percentage of variances",
+        col ="steelblue")
+# Add connected line segments to the plot
+lines(x = 1:nrow(eigenvalues_b), eigenvalues_b[, 2], 
+      type="b", pch=19, col = "deeppink4")
+
+# after
+
+eigenvalues_a <- pca_after$eig
+head(eigenvalues_a[, 1:2])
+
+
+barplot(eigenvalues_a[, 2], names.arg=1:nrow(eigenvalues_a), 
+        main = "Variances - After",
+        xlab = "Principal Components",
+        ylab = "Percentage of variances",
+        col ="steelblue")
+# Add connected line segments to the plot
+lines(x = 1:nrow(eigenvalues_a), eigenvalues_a[, 2], 
+      type="b", pch=19, col = "deeppink4")
+
+```
+
+
+```{r}
+library(dplyr)
+
+# Assign periods based on weeks
+buoydata <- buoydata %>%
+  mutate(Period = case_when(
+    Week %in% c(32, 33, 34) ~ "Before",
+    Week %in% c(36, 37, 38) ~ "After",
+    TRUE ~ NA_character_
+  )) %>%
+  filter(!is.na(Period)) # Remove rows outside the desired periods
+
+# Perform PCA on buoy data
+pca <- prcomp(buoydata %>% select(WDIR, WSPD, GST, PRES, ATMP, WTMP), center = TRUE, scale. = TRUE)
+pca_results <- as.data.frame(pca$x)
+
+# Add PCA scores back to the dataset
+buoydata <- cbind(buoydata, pca_results)
+
+# Aggregate by Period
+buoy_aggregated <- buoydata %>%
+  group_by(Period) %>%
+  summarise(PC1 = mean(PC1), PC2 = mean(PC2))
+
+print(buoy_aggregated)
+
+#load bridgenet data
+bridgenet <- read.csv("bridgenet.csv", header=TRUE)
+
+# Assign periods based on weeks
+abundance_data <- bridgenet %>%
+  mutate(Period = case_when(
+    Week == 28 ~ "Before",
+    Week == 49 ~ "After",
+    TRUE ~ NA_character_
+  )) %>%
+  filter(!is.na(Period)) # Remove rows outside the desired periods
+
+# Aggregate fish data by Period, Taxa, and adjust for volume filtered
+abundance_aggregated <- abundance_data %>%
+  group_by(Period, Taxa) %>%
+  summarise(
+    TotalAbundance = sum(TotalAbundance),
+    VolumeFiltered = sum(VolumeFiltered)
+  )
+
+print(abundance_aggregated)
+
+# Merge the aggregated datasets
+combined_data <- abundance_aggregated %>%
+  left_join(buoy_aggregated, by = "Period")
+
+print(combined_data)
+
+
+```
+
+```{r}
+
+# Fit the GLM (using Poisson regression initially)
+glm_poisson <- glm(
+  TotalAbundance ~ PC1 + PC2 + Period + offset(log(VolumeFiltered)),
+  data = combined_data,
+  family = poisson()
+)
+
+# Check for overdispersion
+dispersion <- sum(residuals(glm_poisson, type = "pearson")^2) / df.residual(glm_poisson)
+print(dispersion)
+
+# If overdispersion is detected, use Negative Binomial regression
+if (dispersion > 1.5) {
+  glm_nb <- glm.nb(
+    TotalAbundance ~ PC1 + PC2 + Period + offset(log(VolumeFiltered)),
+    data = combined_data
+  )
+  summary(glm_nb)
+} else {
+  summary(glm_poisson)
+}
+
+```
+
