@@ -36,3 +36,7 @@ install.packages(c("dplyr", "lubridate", "FactoMineR", "factoextra", "MASS"))
 - Perform PCA on the buoy data to reduce variables.
 - Generate visualizations for PCA results (e.g., biplots and scree plots).
 - Analyze data separately for periods before and after the hurricane.
+
+  ## Note
+
+  The code for GLM at the end of the .rmd and the `bridgenet.csv` are part of a continuation to this project that has not yet been completed and can be disregarded at the moment.
