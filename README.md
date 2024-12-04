@@ -3,15 +3,6 @@
 
 This project applies Principal Component Analysis (PCA) and Generalized Linear Models (GLMs) to oceanographic buoy data and fish abundance data to investigate the influence of Hurricane Earl (2010).
 
-## Table of Contents
-
-- [Purpose](#purpose)
-- [Data Sources](#data-sources)
-- [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Steps](#steps)
-- [Results](#results)
-
 ---
 
 ## Purpose
