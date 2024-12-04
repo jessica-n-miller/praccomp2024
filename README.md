@@ -1,7 +1,7 @@
 # praccomp2024
-## PCA and GLM Analysis of Hurricane Effects on Oceanographic Data
+## PCA of Hurricane Effects on Oceanographic Data
 
-This project applies Principal Component Analysis (PCA) and Generalized Linear Models (GLMs) to oceanographic buoy data and fish abundance data to investigate the influence of Hurricane Earl (2010).
+This project applies Principal Component Analysis (PCA) to oceanographic buoy data. When the resutling PCs are used with Generalized Linear Models (GLMs) and fish abundance data, they can be used to investigate the influence of Hurricane Earl (2010). This code is easily adaptable to other storm events using buoy data from the same source and adjusted dates.
 
 ---
 
